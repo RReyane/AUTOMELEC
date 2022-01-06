@@ -1,0 +1,6 @@
+- Plug-in TITAN (recuperation modbus + envoie serveur telemetrie) [C++/Qt]
+- Plug-in TAMISOFT (recuperation parametre fonctionnement pc industriels via logs + envoie serveur telemetrie) [C++/Qt]
+- Plug-in TRUCKSOFDT (recuperation parametre fonctionnement pc industriels via logs + envoie serveur telemetrie) [C++/Qt]
+- Dashboard sur serveur telemetrie [Framework mqtt/Telegraf/InfluxDB/Grafana]
+- Base de données de telemetrie
+- Deploiment serveur télémetrie sur cloud
